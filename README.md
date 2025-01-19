@@ -10,7 +10,7 @@ Estudante de **Ciência da Computação** na **UENP - Universidade Estadual do P
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## ⚙️ Áreas de interesse
+## Áreas de interesse
 
 Programação de sistemas com C e C++;  
 Desenvolvimento web com JavaScript;  
