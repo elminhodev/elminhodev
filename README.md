@@ -18,7 +18,7 @@ Resolução de problemas computacionais complexos.
 
 ![elminhodev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elminhodev&theme=blue-green)
 
-## 📱 Contato
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-elmo-2272a6331/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zezzao__/) 
